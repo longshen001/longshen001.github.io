@@ -19,8 +19,8 @@ cd docs/.vuepress/dist
 
 # 备份静态文件到github
 git init
-git config user.name 'xxx'
-git config user.email 'xxxxxx@xxxx.com'
+git config user.name 'china-fanxin'
+git config user.email 'fanxin0913@foxmail.com'
 git add -A
 git commit -m "deploy:$(date +"%Y年%m月%d日 %T %Z")"
 git push -f git@github.com:china-fanxin/website.git master:gh-pages

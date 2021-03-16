@@ -6,7 +6,7 @@ module.exports = {
   // theme: 'vdoing', // 使用依赖包主题
   // theme: require.resolve('../../theme-vdoing'), // 使用本地主题
 
-  title: "福利资源下载站点",
+  title: "福利交流群",
   description: '老斯机,福利资源',
   base: '/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
