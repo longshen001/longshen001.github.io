@@ -28,7 +28,7 @@ postList: none
   textColor: '#fff'
 - name: 小妲己直播
   desc: '点击下载'
-  avatar:  https://i.loli.net/2021/03/16/31mJY2I7HAEp9Wb.png# 可选
+  avatar:  https://i.loli.net/2021/03/17/sd5Yv86gHVMO7De.jpg
   link: http://3w33.me # 可选
   bgColor: '#CBEAFA' # 可选，默认var(--bodyBg)。颜色值有#号时请添加单引号
   textColor: '#6854A1' # 可选，默认var(--textColor)
